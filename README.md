@@ -1,1 +1,1 @@
-# truthnet-lite
+# hallucination-resistant-llm
