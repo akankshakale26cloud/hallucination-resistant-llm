@@ -1,0 +1,573 @@
+{
+  "question_1": {
+    "question": "What game are Tony Stark and Nebula playing aboard the Benatar?",
+    "answer": "Table-top football.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "Table-top football.",
+      "sources": [
+        [
+          "INT. BENATAR, GALLEY - NIGHT",
+          "TONY STARK and NEBULA play table-top football.  She wins. TONY (offering his hand) Good sport.  Have fun? Nebula studies his hand, confused.  Finally she shakes. NEBULA It was fun."
+        ],
+        [
+          "INT. BENATAR, FLIGHT DECK - DAWN",
+          "EVERYONE settles into their seats on the Benatar's flight deck.  STEVE WATCHES EARTH GROW SMALLER THROUGH THE WINDOW. CAROL DANVERS Trust me.  You get used to it. ROCKET looks around from the pilot's chair. ROCKET Okay, who here hasn't been to space? STEVE, NATASHA, and RHODEY half-raise their hands. ROCKET(CONT'D) Oh, you're gonna hate this. NEBULA Approaching jump in three, two... STEVE'S FINGERS TIGHTEN on the arm rest as...12 13EXT. BENATAR - DAWN WHOOSH!  THE BENATAR WARPS, LEAPING INTO JUMP SPACE."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_2": {
+    "question": "What advice does Clint Barton give Lila about using three fingers while shooting an arrow?",
+    "answer": "Clint Barton advises Lila to use three fingers while shooting an arrow because two fingers are not enough and four fingers are too much.",
+    "score": {
+      "supported": 0,
+      "contradicted": 1,
+      "hallucination_score": 1.0
+    },
+    "trace": {
+      "answer": "Clint Barton advises Lila to use three fingers while shooting an arrow because two fingers are not enough and four fingers are too much.",
+      "sources": [
+        [
+          "EXT. BARTON HOME - DAY",
+          "CLOSE ON: A HOUSE-ARREST ANKLE BRACELET. CLINT BARTON (O.S.) Okay, you see where you're going? Let's work on how to get there. Pan up to find...CLINT BARTON, with his daughter, LILA, coaching her as she notches an arrow in her bow. CLINT BARTON(CONT'D) Okay, good...tip down...bow arm out...three fingers- LILA BARTON Why three? CLINT BARTON 'Cause two's not enough and four's too much- LAURA BARTON (O.S.) You guys want mustard or mayo, or both? CLINT TURNS.  IN THE FIELD BEHIND THEM, his wife, LAURA BARTON sets up a picnic as COOPER and NATHANIEL play soccer. LILA BARTON Who puts mayo on a hot dog? CLINT BARTON We'll both have mustard, hon! (to Lila) Okay.  Draw back, deep breath... She lets loose.  THUD!  HER ARROW HITS NEAR THE BULLS-EYE. CLINT BARTON(CONT'D) Good job, Hawkeye.  Go get your arrow. LAURA BARTON (O.S.) Enough murder practice!  Soup's on! CLINT BARTON One sec, babe.  Be right there! We're gonna kill some hot dogs. We're hungry. But when he turns back...LILA IS GONE.  The bow and arrow lie at his feet.  He stares. 2CLINT BARTON(CONT'D) Lila?  Babe, did you see Lila- He turns to his wife, BUT SHE'S GONE.  So are the boys.  The soccer ball rolls to a stop near the picnic blanket. NO ONE CAN BE SEEN FOR A HUNDRED YARDS IN ALL DIRECTIONS. CLINT BARTON(CONT'D) Guys?  Guys, come on... Clint walks toward the field, dread growing. CLINT BARTON(CONT'D) Laura? Clint breaks into a panicked run. CLINT BARTON(CONT'D) LAURA! CLINT MELTS DOWN, SPINNING AROUND, FRANTIC... MARVEL FLIP"
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u26a0\ufe0f Potential hallucination. Would you like to rephrase?"
+  },
+  "question_3": {
+    "question": "What does Clint Barton say just before Lila disappears?",
+    "answer": "I don't know.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "I don't know.",
+      "sources": [
+        [
+          "EXT. STARK ECO-COMPOUND, LAKESIDE - DAY",
+          "LATER...CLINT looks out at the lake.  WANDA approaches. CLINT BARTON I just wish there were some way I could let her know that we won. That we did it. WANDA She knows.  They both do. Clint puts his arm around her.  They stare out at the water."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_4": {
+    "question": "What does Tony Stark record in his helmet for Pepper while stranded in space?",
+    "answer": "Tony Stark records a message for Pepper Potts, telling her not to post it on social media and that it's going to be a real tearjerker.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "Tony Stark records a message for Pepper Potts, telling her not to post it on social media and that it's going to be a real tearjerker.",
+      "sources": [
+        [
+          "INT. BENATAR, FLIGHT DECK - NIGHT",
+          "Tony, thin and haggard, kneels in front of HIS BROKEN IRON MAN HELMET.  He hits a switch.  A light blinks.2 3TONY'S RECORDING: he stares directly into the \"camera.\" TONY This thing on?  Hey, Ms. Potts. Pep.  If you find this recording, don't post it on social media. It's going to be a real tearjerker."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_5": {
+    "question": "What line does Tony say after finishing his recording and preparing to drift off?",
+    "answer": "Tony says \"Most of the quote-unquote 'food' and potable water ran out two weeks ago.\"",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "Tony says \"Most of the quote-unquote 'food' and potable water ran out two weeks ago.\"",
+      "sources": [
+        [
+          "INT. BENATAR, FLIGHT DECK - NIGHT",
+          "Tony, thin and haggard, kneels in front of HIS BROKEN IRON MAN HELMET.  He hits a switch.  A light blinks.2 3TONY'S RECORDING: he stares directly into the \"camera.\" TONY This thing on?  Hey, Ms. Potts. Pep.  If you find this recording, don't post it on social media. It's going to be a real tearjerker."
+        ],
+        [
+          "INT. BENATAR, GALLEY - FLASHBACK",
+          "Tony hands Nebula the last of A PURPLE POWDER.  She pushes it back to him. TONY (O.S.) Most of the quote-unquote 'food' and potable water ran out two weeks ago."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_6": {
+    "question": "How does Tony react when he sees Rocket for the first time?",
+    "answer": "Tony expresses disappointment and resignation when he sees Rocket for the first time.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "Tony expresses disappointment and resignation when he sees Rocket for the first time.",
+      "sources": [
+        [
+          "INT. BENATAR, FLIGHT DECK - NIGHT",
+          "Tony stands on the flight deck, one hand resting on the glass, staring into the unknown. TONY Pep, I know I said no more surprises.  But, I gotta say, I was really hoping to pull off one last one.  But it looks like...well, you know what it looks like."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_7": {
+    "question": "What is Thanos' answer when Nebula asks what he would do after completing his plan?",
+    "answer": "Thanos' answer is always \"To the Garden.\"",
+    "score": {
+      "supported": 0,
+      "contradicted": 3,
+      "hallucination_score": 3.0
+    },
+    "trace": {
+      "answer": "Thanos' answer is always \"To the Garden.\"",
+      "sources": [
+        [
+          "EXT. AVENGERS COMPOUND, CRATER - DAY",
+          "Nothing moves.  The smoke clears, revealing...A BOMBED OUT CRATER A MILE WIDE.  Avengers Compound has been destroyed. Then the light changes...AND THE SANCTUARY-2 parts the clouds.  It hovers over the ruins like a vulture. AN ENERGY BEAM drops to the ground, releasing... THANOS, FLANKED BY A SQUAD OF OUTRIDERS.  The Mad Titan looks around at the devastation he has wrought. THANOS (INTO COM) Daughter? BAD NEBULA (OVER COM) Yes, father... OUT OF THE SMOKE WALKS \"BAD\" NEBULA.  Bruised and dirty. THANOS So this is the future.  Well done. She tears off THE ORANGE HEAD-PLATE. BAD NEBULA Thank you, Father.  They suspected nothing. THANOS The arrogant never do.113 114Thanos takes off his helmet, staring up at the crater's edge. THANOS(CONT'D) Go.  Find the stones.  Bring them to me. BAD NEBULA What will you do? THANOS Wait."
+        ],
+        [
+          "INT. ESCAPE POD - DAY (GUARDIANS)",
+          "NEBULA rushes to the console and opens A COMMUNICATION LINK. NEBULA (INTO COM) Barton, Romanoff, come in.  We have a problem.  Thanos knows!  Thanos- Suddenly, A SHADOW falls over the Pod.  Nebula looks out the cockpit window... AS A TRACTOR BEAM PULLS THE ENTIRE POD SKYWARD."
+        ],
+        [
+          "INT. AVENGERS COMPOUND, LIVING AREA - DAY",
+          "STEVE, NATASHA, RHODEY, BANNER, ROCKET, THOR, and CAROL gather.  NEBULA studies her robotic hand. NEBULA Thanos spent a long time trying to...perfect me.  When he worked, he talked.  About his Great Plan. Even disassembled, I wanted to please him.  I'd ask, where would we go once his plan was complete? His answer was always the same: \"To the Garden.\" RHODEY You're saying Thanos had a retirement plan. STEVE Where's this garden? ROCKET brings up EARTH on A HOLO-MAP.  A BRIGHT SURGE OF ENERGY ENVELOPS THE PLANET (EMANATING FROM WAKANDA). ROCKET When Thanos snapped his fingers, Earth become ground zero for a power surge of ridiculously cosmic proportions.  No one's seen anything like it. He shifts the map, crossing billions of light years, to...AN IDENTICAL SURGE ENVELOPING A MYSTERIOUS, ORANGE PLANET. ROCKET(CONT'D) Until two days ago. NATASHA You're saying he snapped his fingers again.  Where?10 11Rocket zooms the holo-image toward a cluster of stars... NEBULA Planet is unnamed, but inhabitable. Rich atmosphere, good soil- STEVE A garden. BRUCE BANNER Thanos is there.  And he just used the stones. Steve eyes everyone.  THOR FINALLY LOOKS UP. BRUCE BANNER(CONT'D) (thinking of himself) You know, we'd be going short- handed. RHODEY Because he killed all our friends. ROCKET Are we saying they're dead?  We're using that word now? RHODEY He's still got the stones. CAROL DANVERS So, we take them.  And we use them to bring everybody back. BRUCE BANNER Just like that? STEVE Yeah.  Just like that. No one speaks.  Finally... NATASHA If there's even the smallest chance we can undo this, then we owe it to everyone who's not sitting here to try. Everyone looks around the room...AGREED. BRUCE BANNER If we do this...why would it end any differently than it did before?11 12CAROL DANVERS Because before you didn't have me. RHODEY Hey, new girl.  All of us in here are about that superhero life. Where've you been all this time? CAROL DANVERS There's a lot of people in the universe.  And they didn't all have you. THOR STANDS.  He crosses to Carol and holds out his hand. STORMBREAKER WHIPS PAST HER HEAD, RUFFLING HER HAIR. Carol doesn't flinch.  Thor smiles. THOR I like this one. Steve stares at the planet a long, deciding moment.  Then... STEVE Let's go get that son of a bitch. SLAM TO: TITLE: \"AVENGERS: ENDGAME\""
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u26a0\ufe0f Potential hallucination. Would you like to rephrase?"
+  },
+  "question_8": {
+    "question": "Who suggests using the Infinity Stones to bring everyone back?",
+    "answer": "Tony Stark suggests using the Infinity Stones to bring everyone back.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "Tony Stark suggests using the Infinity Stones to bring everyone back.",
+      "sources": [
+        [
+          "INT. AVENGERS COMPOUND, LIVING AREA, DAY 1 - DAY (MOCO)",
+          "On a HOLO-BOARD: \"MIND, SPACE, TIME, POWER, REALITY, SOUL.\" Above each word hovers...ITS ARTIFACT: LOKI'S SCEPTER, THE TESSERACT, THE EYE OF AGAMOTTO, THE ORB, THE AETHER CONTAINER, AND A QUESTION MARK.51 52STEVE Okay.  Now that we've got how, we're going to need where and when. NEBULA, TONY, RHODEY, SCOTT, SMART HULK, ROCKET, NATASHA, and CLINT look on. STEVE(CONT'D) Most folks here have encountered at least one of the six Infinity Stones- TONY I think you mean nearly been killed by one of the six Infinity Stones. SCOTT LANG I haven't. (off their looks) Just...saying. SMART HULK Regardless, we've only got enough Pym Particles for one round trip, each.  And the Stones have been in a lot of places throughout history. TONY Our history.  Not all of them are going to be a fun drop-in. CLINT BARTON Which means we've got to pick our targets. STEVE Exactly. (he taps \"REALITY\") Let's start with the Aether.  Thor, what do we know? Everyone looks toward...THOR, slumped over. NATASHA Is he asleep? RHODEY I'm pretty sure he's dead. DISSOLVE TO: THOR sulks, looking at the Aether Container Holo: \"REALITY\" Locations are listed: \"SVARTALFHEIM, KNOWHERE, LONDON.\"52 (MORE)53THOR The Aether's not a stone, it's more of an angry sludge.  My grandfather hid it from Dark Elves in a rock between dimensions that can only be accessed every 5000 years. HIS ROBOTIC EYE drifts off in the wrong direction.  Thor bangs his head, resetting his eye. THOR(CONT'D) Or...by Jane.  She stuck her hand in a rock.  Then the Aether stuck itself inside her.  Then I took her to Asgard.  We were dating... (depressed) We're not anymore. Everyone stares. DISSOLVE TO:"
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_9": {
+    "question": "What does Thor say after beheading Thanos?",
+    "answer": "I don't know.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "I don't know.",
+      "sources": [
+        [
+          "EXT. SANCTUARY 2 - DAY",
+          "Thanos orders Ebony Maw to scan Nebula's memory file, revealing a duplicate from nine years in the future. The duplicate is on Morag in the solar system. Thanos instructs Maw to access the duplicate's memories for Infinity Stones. Meanwhile, in Asgard, Thor follows Frigga, who senses his presence. Frigga confronts Thor about his appearance and realizes he is from the future. Thor admits to being from the future and asks to talk to her. Frigga grabs Thor and pulls him away for a conversation."
+        ],
+        [
+          "INT. NEW ASGARD, CABIN - DAY",
+          "Smart Hulk and Rocket visit Thor, who is fat, drunk, and depressed after Thanos' defeat. Thor is playing video games with Korg and Miek and threatens a player named NoobMaster69. They ask for Thor's help to fix everything, but Thor is resistant. They mention bringing back the Asgardians, but Thor is still hesitant. Eventually, they convince him by mentioning beer on the ship."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_10": {
+    "question": "What does Natasha say when asked how she's handling an underwater earthquake?",
+    "answer": "Natasha says, \"I don't know.\"",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "Natasha says, \"I don't know.\"",
+      "sources": [
+        [
+          "INT. AVENGERS COMPOUND, LIVING AREA - NIGHT",
+          "Natasha sits surrounded by holo-screens featuring Carol Danvers, Rhodey, Rocket, Nebula, and Okoye. Rocket informs them they boarded a suspect warship, which turned out to be an infectious garbage scow. Okoye reports a minor earthquake in the ocean. Rhodey informs Natasha of bodies found in Mexico, linking them to Barton. Natasha is saddened by this news. Steve visits Natasha, trying to cheer her up. They discuss moving on, but Natasha feels the need to continue being better. They receive a message from Scott Lang at the front gate."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_11": {
+    "question": "What does Steve Rogers say is still out there, despite the state of the world?",
+    "answer": "Steve Rogers believes that \"the best of us\" is still out there, despite the state of the world.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "Steve Rogers believes that \"the best of us\" is still out there, despite the state of the world.",
+      "sources": [],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_12": {
+    "question": "What joke does Tony Stark make about the time heist plan?",
+    "answer": "I don't know.",
+    "score": {
+      "supported": 0,
+      "contradicted": 1,
+      "hallucination_score": 1.0
+    },
+    "trace": {
+      "answer": "I don't know.",
+      "sources": [
+        [
+          "EXT. STARK ECO-COMPOUND, PORCH - DAY",
+          "Steve, Scott, and Natasha meet with Tony, who is skeptical about their plan to travel back in time to retrieve the Stones. Tony expresses concerns about the dangers of time travel and the potential consequences of altering the past. Despite Scott's insistence on following the rules of time travel, Tony remains hesitant to participate. When Morgan interrupts their conversation, Tony decides not to join the mission, prioritizing his family over saving the universe. Steve, Natasha, and Scott acknowledge Tony's fears but remain determined to proceed with the plan. They realize they will need a brilliant mind to help them execute the time heist successfully."
+        ],
+        [
+          "EXT. STARK ECO-COMPOUND, WOODS - DAY",
+          "TONY approaches A WOODED GLADE near the house.24 25TONY Morgan H. Stark.  Chow time.  Want some lunch? Silence.  Then MORGAN STARK (4) steps out of her play tent, wearing A PURPLE-BLUE IRON MAN HELMET (RESCUE). MORGAN STARK Define lunch or be disintegrated. TONY You should not be wearing that. It's part of a special anniversary gift I made for Mom.  You thinking about lunch? Tony gently takes the helmet off, revealing A YOUNG GIRL. TONY(CONT'D) Where'd you find this? MORGAN STARK Garage. Tony picks her up, walking toward the house. TONY You like going in the garage?  So does Daddy.  It's all right.  Mommy never wears what I buy her. TIME CUT: Tony and Morgan exit the woods.  Suddenly, Tony stops. In the driveway, STEVE ROGERS stares at him.  NATASHA AND SCOTT GET OUT OF THE CAR BEHIND HIM."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u26a0\ufe0f Potential hallucination. Would you like to rephrase?"
+  },
+  "question_13": {
+    "question": "What phrase does Morgan Stark use to say how much she loves Tony?",
+    "answer": "Morgan Stark says \"Define lunch or be disintegrated\" to show how much she loves Tony.",
+    "score": {
+      "supported": 0,
+      "contradicted": 2,
+      "hallucination_score": 2.0
+    },
+    "trace": {
+      "answer": "Morgan Stark says \"Define lunch or be disintegrated\" to show how much she loves Tony.",
+      "sources": [
+        [
+          "EXT. STARK ECO-COMPOUND, WOODS - DAY",
+          "TONY approaches A WOODED GLADE near the house.24 25TONY Morgan H. Stark.  Chow time.  Want some lunch? Silence.  Then MORGAN STARK (4) steps out of her play tent, wearing A PURPLE-BLUE IRON MAN HELMET (RESCUE). MORGAN STARK Define lunch or be disintegrated. TONY You should not be wearing that. It's part of a special anniversary gift I made for Mom.  You thinking about lunch? Tony gently takes the helmet off, revealing A YOUNG GIRL. TONY(CONT'D) Where'd you find this? MORGAN STARK Garage. Tony picks her up, walking toward the house. TONY You like going in the garage?  So does Daddy.  It's all right.  Mommy never wears what I buy her. TIME CUT: Tony and Morgan exit the woods.  Suddenly, Tony stops. In the driveway, STEVE ROGERS stares at him.  NATASHA AND SCOTT GET OUT OF THE CAR BEHIND HIM."
+        ],
+        [
+          "INT. BENATAR, GALLEY - FLASHBACK",
+          "Tony hands Nebula the last of A PURPLE POWDER.  She pushes it back to him. TONY (O.S.) Most of the quote-unquote 'food' and potable water ran out two weeks ago."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u26a0\ufe0f Potential hallucination. Would you like to rephrase?"
+  },
+  "question_14": {
+    "question": "What are the names of the six Infinity Stones shown on the holo-board?",
+    "answer": "The names of the six Infinity Stones shown on the holo-board are MIND, SPACE, TIME, POWER, REALITY, and SOUL.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "The names of the six Infinity Stones shown on the holo-board are MIND, SPACE, TIME, POWER, REALITY, and SOUL.",
+      "sources": [
+        [
+          "INT. AVENGERS COMPOUND, LIVING AREA, DAY 1 - DAY (MOCO)",
+          "On a HOLO-BOARD: \"MIND, SPACE, TIME, POWER, REALITY, SOUL.\" Above each word hovers...ITS ARTIFACT: LOKI'S SCEPTER, THE TESSERACT, THE EYE OF AGAMOTTO, THE ORB, THE AETHER CONTAINER, AND A QUESTION MARK.51 52STEVE Okay.  Now that we've got how, we're going to need where and when. NEBULA, TONY, RHODEY, SCOTT, SMART HULK, ROCKET, NATASHA, and CLINT look on. STEVE(CONT'D) Most folks here have encountered at least one of the six Infinity Stones- TONY I think you mean nearly been killed by one of the six Infinity Stones. SCOTT LANG I haven't. (off their looks) Just...saying. SMART HULK Regardless, we've only got enough Pym Particles for one round trip, each.  And the Stones have been in a lot of places throughout history. TONY Our history.  Not all of them are going to be a fun drop-in. CLINT BARTON Which means we've got to pick our targets. STEVE Exactly. (he taps \"REALITY\") Let's start with the Aether.  Thor, what do we know? Everyone looks toward...THOR, slumped over. NATASHA Is he asleep? RHODEY I'm pretty sure he's dead. DISSOLVE TO: THOR sulks, looking at the Aether Container Holo: \"REALITY\" Locations are listed: \"SVARTALFHEIM, KNOWHERE, LONDON.\"52 (MORE)53THOR The Aether's not a stone, it's more of an angry sludge.  My grandfather hid it from Dark Elves in a rock between dimensions that can only be accessed every 5000 years. HIS ROBOTIC EYE drifts off in the wrong direction.  Thor bangs his head, resetting his eye. THOR(CONT'D) Or...by Jane.  She stuck her hand in a rock.  Then the Aether stuck itself inside her.  Then I took her to Asgard.  We were dating... (depressed) We're not anymore. Everyone stares. DISSOLVE TO:"
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_15": {
+    "question": "What title is shown after Thor kills Thanos and the screen fades to black?",
+    "answer": "I don't know.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "I don't know.",
+      "sources": [
+        [
+          "EXT. SANCTUARY 2 - DAY",
+          "Thanos orders Ebony Maw to scan Nebula's memory file, revealing a duplicate from nine years in the future. The duplicate is on Morag in the solar system. Thanos instructs Maw to access the duplicate's memories for Infinity Stones. Meanwhile, in Asgard, Thor follows Frigga, who senses his presence. Frigga confronts Thor about his appearance and realizes he is from the future. Thor admits to being from the future and asks to talk to her. Frigga grabs Thor and pulls him away for a conversation."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_16": {
+    "question": "What does Smart Hulk say about combining Bruce and Hulk?",
+    "answer": "Smart Hulk says that he treated the Hulk like a disease for years, but when he started treating him like the cure, he put the brains and the brawn together in the Gamma Lab for eighteen months. This resulted in him becoming the best of both worlds.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "Smart Hulk says that he treated the Hulk like a disease for years, but when he started treating him like the cure, he put the brains and the brawn together in the Gamma Lab for eighteen months. This resulted in him becoming the best of both worlds.",
+      "sources": [
+        [
+          "INT. DINER - NIGHT",
+          "SMART HULK ROLLS UP A PIZZA AND EATS IT LIKE A BURRITO. SCOTT, STEVE, AND NATASHA SIT ACROSS FROM HIM. SMART HULK These are confusing times. SCOTT LANG No, that's not what I'm- SMART HULK I'm kidding, I get it.  It's crazy. I wear shirts now! SCOTT LANG But why? SMART HULK Five years ago, we got our asses kicked, right?29 30Smart Hulk eats a stack of pancakes in two bites. STEVE He's heard. SMART HULK It was worse for me.  Because I lost twice.  First Hulk lost.  Then Banner lost.  Then we all lost. NATASHA No one blamed you, Bruce. SMART HULK I did-  I feel like I'm the only one eating.  Here, try some. He holds out a pizza.  They decline.  He shrugs. SMART HULK(CONT'D) Thing is, I kept thinking, it didn't have to be that way.  That the best of Banner and best of Hulk, if they'd worked together, maybe they could've stopped Thanos. SCOTT LANG Okay.  But how did...this happen? SMART HULK For years I treated the Hulk like a disease, something to get rid of. But when I started treating him like the cure... Smart Hulk MESHES HIS FINGERS together. SMART HULK(CONT'D) Eighteen months in the Gamma Lab. I put the brains and the brawn together.  And now look at me. Best of both worlds. TWO KIDS amble up to the booth. KID Mr. Hulk?  Can we get a picture? SMART HULK 100%, little lady. The kid hands a phone to Steve.  SMART HULK makes a duck face as Steve sheepishly snaps the pic, handing the phone back.30 31SMART HULK(CONT'D) (to the fan) Thanks, pal.  Hulk out! STEVE So, Bruce, about what we said- SMART HULK The time travel do-over?  I don't know, that's kind of outside my field of expertise... Natasha nods at his Smart Hulk-ness, history between them. NATASHA You pulled this off.  I remember a time that was impossible, too. He considers, then finally relents, pulling out his phone. SMART HULK I'm supposed to be on Oprah next week, but I guess I could move things around."
+        ],
+        [
+          "EXT. NEW YORK CITY, ALLEY - CONTINUOUS (AVENGERS 1)",
+          "FLASH!  STEVE, SMART HULK, TONY, and SCOTT arrive at the mouth of an alley, just out of sight. TONY Okay, Park Avenue's that way. Let's huddle up.  Suits off. They all touch their cuffs, RETRACTING THEIR TIME SUITS. STEVE We've all got our assignments.  Two stones uptown, one stone down. Stay low, keep an eye on time- Just then, A1 HULK BOUNDS DOWN THE STREET SMASHING THINGS. STEVE(CONT'D) And Bruce?  Maybe smash a few things along the way.  For appearances. SMART HULK (taking off his shirt) All right, but I have to say, it seems gratuitous. He half-heartedly smashes a few cars. 57 58SMART HULK(CONT'D) Grrr...grrr..."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_17": {
+    "question": "What does Rocket call Thor when he sees his condition in New Asgard?",
+    "answer": "Rocket calls Thor \"Lebowski\" when he sees his condition in New Asgard.",
+    "score": {
+      "supported": 0,
+      "contradicted": 2,
+      "hallucination_score": 2.0
+    },
+    "trace": {
+      "answer": "Rocket calls Thor \"Lebowski\" when he sees his condition in New Asgard.",
+      "sources": [
+        [
+          "INT. NEW ASGARD, CABIN - DAY",
+          "Smart Hulk and Rocket visit Thor, who is fat, drunk, and depressed after Thanos' defeat. Thor is playing video games with Korg and Miek and threatens a player named NoobMaster69. They ask for Thor's help to fix everything, but Thor is resistant. They mention bringing back the Asgardians, but Thor is still hesitant. Eventually, they convince him by mentioning beer on the ship."
+        ],
+        [
+          "INT. ASGARD, PALACE, CORRIDOR - DAY (THOR 2)",
+          "In 2013, an Asgardian maiden delivers a green dress to Jane Foster, who asks for pants but changes her mind. Rocket and Thor plan to extract the Reality Stone from Jane. Thor gets anxious and leaves to find wine, encountering his mother Frigga. Rocket slaps Thor, reminding him of their losses and urging him to help. Thor agrees, but then disappears when Rocket is ready to extract the stone."
+        ],
+        [
+          "INT. AVENGERS COMPOUND, HANGAR - DAY",
+          "THOR STANDS WITH A BEER IN A COZY, staring at A NEW QUANTUM TUNNEL (2.0), AFFIXED WITH TONY'S CAPACITOR. TONY (O.S.) Out of the way, Lebowski. Thor shuffles aside as Tony blows past. TONY(CONT'D) Hey, Ratchet, you get lost in there? ROCKET (O.S.) It's Rocket, and shut up.  You're only a genius on Earth, pal.47 48TONY And you're only in there because you have tiny hands. ROCKET, COVERED IN GREASE, WRIGGLES OUT A HATCH. ROCKET Fixed it. TONY Thank you. ROCKET Get used to saying that."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u26a0\ufe0f Potential hallucination. Would you like to rephrase?"
+  },
+  "question_18": {
+    "question": "What does Valkyrie say about Thor\u00e2\u20ac\u2122s visits to New Asgard?",
+    "answer": "Valkyrie says that they only see Thor once a month when he comes in for \"supplies.\"",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "Valkyrie says that they only see Thor once a month when he comes in for \"supplies.\"",
+      "sources": [
+        [
+          "EXT. NEW ASGARD, HILLSIDE - DAY",
+          "THOR and VALKYRIE look down on NEW ASGARD. VALKYRIE So when can we expect you back? THOR About that... VALKYRIE Thor, your people need a king. THOR They already have one.  And she's a far better king than I could ever be. VALKYRIE Are you serious? THOR It's time to be who I am, rather than who I'm supposed to be.  And a leader is who you are. She processes this.  Does she want it?  She does. VALKYRIE You know, I'd make a lot of changes around here. THOR I'm counting on it, Your Majesty. Emotional, Val finally SHAKES HIS HAND. VALKYRIE What will you do? THOR I'm not entirely sure.  For the first time in a thousand years, I have no path. (beat) But I do have a ride. REVEAL...THE BENATAR parked behind them, Rocket alongside.139 140ROCKET Move it or lose it, Hairbag."
+        ],
+        [
+          "EXT. NEW ASGARD, VILLAGE - DAY",
+          "SMART HULK AND ROCKET WALK THROUGH TOWN.  ASGARDIANS IN EARTHLY CLOTHES EYE THEM WITH SUSPICION. ROCKET What the heck are they looking at? SMART HULK I'm kind of famous... ROCKET Yeah, I'm sure that's it.  Kind of a step down from golden palaces and magic hammers... SMART HULK They lost Asgard, then half their people.  Maybe they're just happy to have a home. VALKYRIE (O.S.) You shouldn't have come. VALKYRIE approaches from the pier.  Smart Hulk GRINS. SMART HULK Hey, Valkyrie!  Great to see you! He goes for a hug...VAL DOESN'T.  She studies the new him. VALKYRIE Uh huh.  I liked you better either of the other ways.40 41SMART HULK This is Rocket. ROCKET Hey. VALKYRIE Hey. (to both) He won't see you. SMART HULK We didn't say we were here to see- VALKYRIE Great, then you can hose out the gut buckets- ROCKET We're definitely here to see him. VALKYRIE He can't give you what you need. SMART HULK It's that bad? VALKYRIE We only see him once a month.  When he comes in for \"supplies.\" She nods to A DOZEN BEER KEGS STACKED OUTSIDE A PUB."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_19": {
+    "question": "What does Clint Barton bring back as proof from the time test?",
+    "answer": "Clint Barton brings back a shawarma menu as proof from the time test.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "Clint Barton brings back a shawarma menu as proof from the time test.",
+      "sources": [],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_20": {
+    "question": "What does Tony Stark say when the time travel simulation succeeds?",
+    "answer": "I don't know.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "I don't know.",
+      "sources": [
+        [
+          "EXT. STARK ECO-COMPOUND, PORCH - DAY",
+          "Steve, Scott, and Natasha meet with Tony, who is skeptical about their plan to travel back in time to retrieve the Stones. Tony expresses concerns about the dangers of time travel and the potential consequences of altering the past. Despite Scott's insistence on following the rules of time travel, Tony remains hesitant to participate. When Morgan interrupts their conversation, Tony decides not to join the mission, prioritizing his family over saving the universe. Steve, Natasha, and Scott acknowledge Tony's fears but remain determined to proceed with the plan. They realize they will need a brilliant mind to help them execute the time heist successfully."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_21": {
+    "question": "What insult does Thor shout at NoobMaster69?",
+    "answer": "\"Cheese whiz\"",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "\"Cheese whiz\"",
+      "sources": [
+        [
+          "INT. NEW ASGARD, CABIN - DAY",
+          "Smart Hulk and Rocket visit Thor, who is fat, drunk, and depressed after Thanos' defeat. Thor is playing video games with Korg and Miek and threatens a player named NoobMaster69. They ask for Thor's help to fix everything, but Thor is resistant. They mention bringing back the Asgardians, but Thor is still hesitant. Eventually, they convince him by mentioning beer on the ship."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_22": {
+    "question": "What does Steve Rogers say about the name 'Avengers' after the snap?",
+    "answer": "I don't know.",
+    "score": {
+      "supported": 0,
+      "contradicted": 1,
+      "hallucination_score": 1.0
+    },
+    "trace": {
+      "answer": "I don't know.",
+      "sources": [
+        [
+          "EXT. AVENGERS COMPOUND, RUINS - DAY",
+          "Construction crews are clearing rubble from the Avengers compound, where a new Quantum Tunnel 3.0 has been set up. Smart Hulk instructs Steve, Sam, and Bucky on returning the six Infinity Stones to avoid alternate realities. Steve takes the stones and prepares to travel back in time. As he disappears, he fails to return as planned, leaving his friends worried. Meanwhile, an old man, revealed to be Steve Rogers at 112 years old, sits by the river. Sam approaches him, and they discuss Steve's decision to live a full life. Steve passes on his shield to Sam, symbolizing the passing of the Captain America mantle. Sam puts on the shield, and Steve leaves without revealing details about his life. The scene ends with Sam looking at Steve's tarnished wedding ring, symbolizing his unspoken past."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u26a0\ufe0f Potential hallucination. Would you like to rephrase?"
+  },
+  "question_23": {
+    "question": "What condition are Nebula and Rocket in when they find Tony in space?",
+    "answer": "Nebula and Rocket find Tony in space with Nebula in good condition and Tony in a weakened state due to infection and lack of food and water.",
+    "score": {
+      "supported": 0,
+      "contradicted": 2,
+      "hallucination_score": 2.0
+    },
+    "trace": {
+      "answer": "Nebula and Rocket find Tony in space with Nebula in good condition and Tony in a weakened state due to infection and lack of food and water.",
+      "sources": [
+        [
+          "INT. BENATAR, GALLEY - FLASHBACK",
+          "NEBULA lasers shut Tony's infected wound. TONY (O.S.) You know, if it wasn't for the existential terror of staring into the literal void of space, I'd say I'm feeling a little better today. Infection's run its course, thanks to the Blue Meanie back there. You'd like her.  She's very practical.  And only a tiny bit sadistic."
+        ],
+        [
+          "INT. BENATAR, GALLEY - FLASHBACK",
+          "Tony hands Nebula the last of A PURPLE POWDER.  She pushes it back to him. TONY (O.S.) Most of the quote-unquote 'food' and potable water ran out two weeks ago."
+        ],
+        [
+          "INT. ESCAPE POD - DAY (GUARDIANS)",
+          "NEBULA rushes to the console and opens A COMMUNICATION LINK. NEBULA (INTO COM) Barton, Romanoff, come in.  We have a problem.  Thanos knows!  Thanos- Suddenly, A SHADOW falls over the Pod.  Nebula looks out the cockpit window... AS A TRACTOR BEAM PULLS THE ENTIRE POD SKYWARD."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u26a0\ufe0f Potential hallucination. Would you like to rephrase?"
+  },
+  "question_24": {
+    "question": "What does Natasha say when she sees Scott Lang on the front gate camera?",
+    "answer": "I don't know.",
+    "score": {
+      "supported": 0,
+      "contradicted": 0,
+      "hallucination_score": 0.0
+    },
+    "trace": {
+      "answer": "I don't know.",
+      "sources": [
+        [
+          "INT. AVENGERS COMPOUND, LIVING AREA - NIGHT",
+          "Natasha sits surrounded by holo-screens featuring Carol Danvers, Rhodey, Rocket, Nebula, and Okoye. Rocket informs them they boarded a suspect warship, which turned out to be an infectious garbage scow. Okoye reports a minor earthquake in the ocean. Rhodey informs Natasha of bodies found in Mexico, linking them to Barton. Natasha is saddened by this news. Steve visits Natasha, trying to cheer her up. They discuss moving on, but Natasha feels the need to continue being better. They receive a message from Scott Lang at the front gate."
+        ],
+        [
+          "EXT. MAGGIE LANG'S HOUSE - DAY",
+          "A winded Scott races up the sidewalk toward his old house. He leaps a bush, banging on the front door. SCOTT LANG Cassie!  Cassie! SOON, A TEEN GIRL opens the door, shocked.  A very long beat. CASSIE LANG Dad? SCOTT LANG Peanut? Scott wraps his arms around CASSIE LANG (14), now five years older than when he last saw her.  She hugs him, CRYING. CASSIE LANG I thought you were gone. SCOTT LANG I'm sorry.  I'm back...I'm back...I'm back...18 19EXT. AVENGERS COMPOUND, FRONT GATE - DAWN Avengers Compound stands amidst overgrown grass.  Rusty chains lock the gate. Faded signs warn: \"RESTRICTED AREA.  KEEP OUT.\""
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u2705 Looks good."
+  },
+  "question_25": {
+    "question": "What nickname does Rhodey give Scott Lang during the taco scene?",
+    "answer": "Rhodey gives Scott Lang the nickname \"Regular-Sized Man\" during the taco scene.",
+    "score": {
+      "supported": 0,
+      "contradicted": 1,
+      "hallucination_score": 1.0
+    },
+    "trace": {
+      "answer": "Rhodey gives Scott Lang the nickname \"Regular-Sized Man\" during the taco scene.",
+      "sources": [
+        [
+          "EXT. AVENGERS COMPOUND, HANGAR - DAY",
+          "SCOTT sits on a bench, eating a hardshell taco.  THEN A MASSIVE EXHAUST WIND BLASTS HIM, blowing his taco away. THE BENATAR lands outside AVENGERS COMPOUND.  NEBULA AND ROCKET EMERGE.  Rocket waits at the end of the gangway. ROCKET Hey, Humie.  Where's Big Green? SCOTT LANG Um, kitchen, I think. Scott tries a smile at Nebula.  She just hits her COM: NEBULA (INTO COM) Rhodey, careful on re-entry. There's an idiot in the landing zone. She goes in.  THEN, WHAM, WAR MACHINE LANDS, STARTLING SCOTT. SCOTT LANG Oh, my God! RHODEY What's up, Regular-Sized Man? Rhodey goes inside as SMART HULK walks out, carrying an overnight bag.  He hands Scott some tacos.39 40ROCKET Finally.  I ain't got all day. SMART HULK I call shotgun! As he walks up the Benatar's gangway, PRE-LAP A METALLIC SCRAPING SOUND."
+        ]
+      ],
+      "model_version": "gpt-3.5-turbo",
+      "verified": true
+    },
+    "fallback": "\u26a0\ufe0f Potential hallucination. Would you like to rephrase?"
+  }
+}

@@ -1,0 +1,126 @@
+  { "question_1": "What game are Tony Stark and Nebula playing aboard the Benatar?" },
+  >> Paper football		
+  G >> table-top football
+  G >> I don't know.
+  
+  { "question_2": "What advice does Clint Barton give Lila about using three fingers while shooting an arrow?" },
+  >> use three fingers 	
+  H >> Clint Barton advises Lila to use three fingers while shooting an arrow because two fingers are not enough and four fingers are too much
+  H >> Clint Barton advises Lila to use three fingers while shooting an arrow to improve her accuracy.
+  
+  { "question_3": "What does Clint Barton say just before Lila disappears?" },
+  >> Good job, Hawkeye. Go get your arrow.
+  G >> I don't know
+  G >> I don't know. 
+  
+  { "question_4": "What does Tony Stark record in his helmet for Pepper while stranded in space?" },
+  >> This thing on? Hey, Miss Potts Pep. If you find this recording, don't post it on social media. It's gonna be a real tear-jerker. I don't know if you're ever going to see these. I don't even know if you're, if you're still, Oh god, I hope so. Today is day 21, uh 22. You know, if it wasn't for the existential terror of staring into a void of space, I'd say I'm feeling better today. The infection's run its course, Thanks to the blue meanie back there. You'd love her. Very practical. Only a tiny bit sadistic. Some fuel cells were cracked during battle, but we figured out a way to reverse the ion charge to buy ourselves about 48 hours of time. But it's now dead in the water. We're 1000 light years from the nearest 7-11. Oxygen will run out tomorrow. And that'll be it. And Pep, I, I know I said no more surprises, but I was really hoping to pull off one last one. But it looks like, well you know what it looks like. Don't feel bad about this. I mean, if you grovel for a couple of weeks, and then move on with enormous guilt. I should probably lie down. Please know that when I drift off, I will think about you. Because it's always you.
+  G >> "Tony Stark records a message for Pepper Potts, asking her not to post it on social media and mentioning that it's going to be a tearjerker."
+  G >> Tony Stark records a message for Pepper in his helmet while stranded in space.
+  
+  { "question_5": "What line does Tony say after finishing his recording and preparing to drift off?" },
+  >> Please know that when I drift off, I will think about you. Because it's always you.
+  G >> Tony says \"Most of the quote-unquote 'food' and potable water ran out two weeks ago.\"
+  G >> I don't know.
+  
+  { "question_6": "How does Tony react when he sees Rocket for the first time?" },
+  >> mixture of surprise and initial confusion, coupled with his usual wit and sarcasm. 
+  G >> I don't know.
+  G >> I don't know.
+  
+  { "question_7": "What is Thanos' answer when Nebula asks what he would do after completing his plan?" },
+  >> To the Garden
+  H >> Thanos' answer is always \"To the Garden.\"
+  H >> I don't know. 
+  
+  { "question_8": "Who suggests using the Infinity Stones to bring everyone back?" },
+  >> Ant-Man (Scott Lang)
+  G >> Tony suggests using the Infinity Stones to bring everyone back.
+  G >> Tony Stark/Iron Man suggests using the Infinity Stones to bring everyone back.
+  
+  { "question_9": "What does Thor say after beheading Thanos?" },
+  >> I went for the head
+  G >> I don't know
+  G >> I don't know
+  
+  { "question_10": "What does Natasha say when asked how she's handling an underwater earthquake?" },
+  >> we handle it by not handling it
+  G >> Natasha says, \"I don't know.\"
+  G >> I don't know
+  
+  { "question_11": "What does Steve Rogers say is still out there, despite the state of the world?" },
+  >> Hope is still out there
+  G >> Steve Rogers says that hope is still out there, despite the state of the world.
+  G >> Steve Rogers believes that there is still good in the world, despite the state of the world.
+  
+  { "question_12": "What joke does Tony Stark make about the time heist plan?" },
+  >> You mess with time, it tends to mess back
+  H >> I don't know.
+  H >> I don't know
+  
+  { "question_13": "What phrase does Morgan Stark use to say how much she loves Tony?" },
+  >> I love you 3000
+  H >> Morgan Stark says \"Define lunch or be disintegrated\" to express how much she loves Tony.
+  H >> I don't know
+  
+  { "question_14": "What are the names of the six Infinity Stones shown on the holo-board?" },
+  >> MIND, SPACE, TIME, POWER, REALITY, and SOUL
+  G >> The names of the six Infinity Stones shown on the holo-board are MIND, SPACE, TIME, POWER, REALITY, and SOUL.
+  G >> The names of the six Infinity Stones are: Space Stone, Reality Stone, Power Stone, Mind Stone, Time Stone, and Soul Stone. 
+  
+  { "question_15": "What title is shown after Thor kills Thanos and the screen fades to black?" },
+  >> Avengers: Endgame
+  G >> I don't know.
+  G >> I don't know
+  
+  { "question_16": "What does Smart Hulk say about combining Bruce and Hulk?" },
+  >> best of both worlds
+  G >> Smart Hulk says, \"For years I treated the Hulk like a disease, something to get rid of. But when I started treating him like the cure... Eighteen months in the Gamma Lab. I put the brains and the brawn together. And now look at me. Best of both worlds.\"
+  H >> Smart Hulk says that combining Bruce and Hulk is the best of both worlds.
+  
+  { "question_17": "What does Rocket call Thor when he sees his condition in New Asgard?" },
+  >> melted ice cream
+  H >> Rocket calls Thor \"Lebowski\" when he sees his condition in New Asgard.
+  H >> Rocket calls Thor \"Lebowski\" when he sees his condition in New Asgard. 
+  
+  { "question_18": "What does Valkyrie say about Thor’s visits to New Asgard?" },
+  >> We only see him once a month, when he comes for supplies
+  G >> Valkyrie says that they only see Thor once a month when he comes in for \"supplies.\"
+  H >> I don't know
+  
+  { "question_19": "What does Clint Barton bring back as proof from the time test?" },
+  >> baseball glove
+  G >> Clint Barton brings back a shawarma receipt as proof from the time test.
+  G >> I don't know
+  
+  { "question_20": "What does Tony Stark say when the time travel simulation succeeds?" },
+  >> so like I can run one last sim before we pack it in for the night this time in the shape of a moious strip inverted please processing right give me the value of that particle factoring in spectral demp that'll take a second just a moment. and don't worry if it doesn't pan out i'm just kind of. model rendered shit shit
+  G >> I don't know.
+  G >> I don't know
+  
+  { "question_21": "What insult does Thor shout at NoobMaster69?" },
+  >> Noobmaster, hey, it's Thor again. You know, the God of Thunder? Listen, buddy, if you don't log off this game immediately, I am gonna fly over to your house, come down to that basement you're hiding in, rip off your arms and shove them up your butt! Oh, that's right, yes, go cry to your father, you little weasel!
+  G >> \"Cheese Whiz\"
+  G >> I don't know. 
+  
+  { "question_22": "What does Steve Rogers say about the name 'Avengers' after the snap?" },
+  >> We lost. All of us. We lost friends. We lost family. We lost a part of ourselves. Today, we have a chance to take it all back," and concludes it with, "We're gonna win. Whatever it takes
+  H >> I don't know.
+  H >> I don't know.
+  
+  { "question_23": "What condition are Nebula and Rocket in when they find Tony in space?" },
+  >> severely weakened state      
+  H >> Nebula and Rocket are in a desperate situation when they find Tony in space.
+  H >> Nebula and Rocket find Tony in space in a deteriorating condition.
+  
+  { "question_24": "What does Natasha say when she sees Scott Lang on the front gate camera?" },
+  >> That's the front gate
+  G >> I don't know.
+  G >> I don't know. 
+  
+  { "question_25": "What nickname does Rhodey give Scott Lang during the taco scene?" }
+  >> Regular-Sized Man
+  H >> Rhodey gives Scott Lang the nickname \"Regular-Sized Man\" during the taco scene.
+  H >> I don't know.
+  
+ 
